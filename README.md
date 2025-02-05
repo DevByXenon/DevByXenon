@@ -10,6 +10,8 @@
 - 🙌🏼 &nbsp; Ask me about everything, I'm glad to help!
 - 🌌 &nbsp; Outside of technology, I love science and mathematics, including its uses within AI, I am willing to collaborate with projects of these kinds.
 
+<br><br>
+
 # 💻 Tech Stack <img src ="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px>
 
 <h3>Languages:</h3>
@@ -31,6 +33,8 @@
   <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'>
   <img src='https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white'>
   <img src='https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white'>
+  <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'>
+  <img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'>
 </span>
 
 # Contact 
