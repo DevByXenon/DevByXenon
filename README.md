@@ -10,7 +10,7 @@
 - 🙌🏼 &nbsp; Ask me about everything, I'm glad to help!
 - 🌌 &nbsp; Outside of technology, I love science and mathematics, including its uses within AI, I am willing to collaborate with projects of these kinds.
 
-<br><br>
+<br>
 
 # 💻 Tech Stack <img src ="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px>
 
